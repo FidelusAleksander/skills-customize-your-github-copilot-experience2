@@ -24,3 +24,4 @@ Every response follows this format:
 - 💡 Focus on concepts, not details
 - 🚫 Never write assignment specs
 - 📊 Base ideas on existing curriculum gaps
+- 
