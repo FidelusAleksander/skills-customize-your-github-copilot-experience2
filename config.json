@@ -59,6 +59,13 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "data-structures-python",
+      "title": "Data Structures in Python",
+      "description": "Practice using lists, dictionaries, sets, and tuples in Python.",
+      "path": "assignments/data-structures-python",
+      "dueDate": "2025-08-01"
     }
   ]
 }
